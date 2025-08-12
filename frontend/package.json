@@ -1,0 +1,8 @@
+{
+  "name": "movie-recommender-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Scaffold with Vite or Next.js when ready\" && exit 0"
+  }
+}
